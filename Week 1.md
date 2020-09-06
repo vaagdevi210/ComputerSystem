@@ -24,8 +24,8 @@
 - Started learning about various algorithms that will be implemented.
 
 ### Team 10
--Learning some advanced features of java  
--Prepared logo of the app
--Working on home page 
--Divided work to all members
--Learning Android studio
+- Learning some advanced features of java
+- Prepared logo of the app
+- Working on home page
+- Divided work to all members
+- Learning Android studio
