@@ -115,3 +115,35 @@
 - Learnt basics of Java and android studio.
 - Planned the layout and logo of the app.
 - Started working on the front and main pages of the app.
+
+### Team 8
+
+- Revised HTML,CSS,JavaScript.
+- Learning React basics.
+- Refering best styles to implememt.
+- Environment Setup Completed
+
+### Team 14
+
+- Learned basics of Flutter
+- Started trying Google Maps API.
+- Made a basic UI, although not pushed into the repo.
+- Started learning about implementing better Backend.
+
+### Team 13
+
+- Learned basics of Frontend Web Development
+- Practiced HTML, CSS, and Bootstrap
+- Created the basic landing pages of our web application
+
+### Team 18
+- Got familiar with android studio , project and tools required for project.
+- Learned Jdk and basic java and OOPS principles.
+- Learned Configuration of Android studio and IDE for Java
+- research on project implementation and tasks to be carried out.
+
+### Team 27
+- Learned basics of django and sql.
+- Started making login and registration system.
+- Applied bootstrap, material css for the frontend.
+- Discussed the basic theme for the web page.
